@@ -1,0 +1,8 @@
+Day,Temperature,Windspeed,Event
+1-Jan-19,32,6,Rain
+2-Jan-19,-999999,7,Sunny
+3-Jan-19,28,-999999,Snow
+4-Jan-19,-999999,7,No Event
+5-Jan-19,32,-999999,Rain
+6-Jan-19,31,2,Sunny
+7-Jan-19,34,5,No Event

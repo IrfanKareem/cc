@@ -1,0 +1,7 @@
+ID,Name,Program
+F2017313014,Umer Saeed,MS(DS)
+F2017313015,Ali Saeed,BBA
+F2017313016,Ahmed Abdullah Saeed,BS(CS)
+F2017313017,Bilal Iqbal,MS(TE)
+F2017313018,Irfan Kareem,MS(CS)
+F2017313019,Muhammad Ijlal Khan,BS(CE)
